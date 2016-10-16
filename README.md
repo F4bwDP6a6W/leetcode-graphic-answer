@@ -1,11 +1,9 @@
-# leetcode 答案Java代码 配合具体例子 和 解释， 让代码更易懂。
+# Classic programming problem with graph explanation
 
-有些时候直接看代码可能看不懂。但是如果配合具体的例子和图形化的数据结构，问题就比较好理解了。
+Every image contains  a solution for a problem with concrete example and  steps.
 
-操作方法：
+Hwo to view them?
 
-直接点击上面的文件
+Open one of the links above.
 
-打开新的页面后，鼠标右键点击图片
-
-选择从新的tab打开图片既可以查看大图
+If you cannot view it clearly, right click you mouse and select "Open image in a new tab".
